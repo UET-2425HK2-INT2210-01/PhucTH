@@ -162,7 +162,7 @@ void coutAssOptions(){
     cout << "2. Determine the intersection of the lines." << endl;
     cout << "3. Find greatest common divisor." << endl;
     cout << "4. Ascending Sort." << endl;
-    cout << "5. Calculate the sum of the greatest number and the smallest number."
+    cout << "5. Calculate the sum of the greatest number and the smallest number.";
     cout << "0. Quit!" << endl;
     cout << endl;
 }
